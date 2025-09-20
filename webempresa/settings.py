@@ -35,7 +35,9 @@ DEBUG = os.environ.get('DEBUG', 'False') == 'True'
 
 
 #ALLOWED_HOSTS = []
-ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', 'localhost').split(',')
+#ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', 'localhost').split(',')
+ALLOWED_HOSTS = ['webempresa-fpgb.onrender.com', 'localhost', '127.0.0.1']
+
 
 
 # Application definition
