@@ -1,0 +1,1359 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2025-09-04T00:11:03.682Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "CAFÉS Y TÉS",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2025-09-04T00:12:44.496Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Bollería artesanal",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2025-09-04T00:13:39.142Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "También vendemos",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2025-09-04T21:01:30.236Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "General",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2025-09-04T21:02:19.475Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "General",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2025-09-04T21:02:32.536Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "General",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2025-09-04T21:03:19.377Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Post object (1)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2025-09-05T17:31:13.444Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Ofertas de otoño",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2025-09-05T17:38:47.580Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Ofertas",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2025-09-05T17:39:12.309Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Ofertas de otoño",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Categories\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2025-09-05T17:39:38.051Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Ofertas",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2025-09-05T17:39:45.250Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Ofertas de otoño",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Categories\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2025-09-05T17:40:08.644Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Ofertas",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2025-09-05T17:41:27.797Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Ofertas de otoño",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Categories\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2025-09-15T22:09:35.742Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "X",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2025-09-15T22:10:39.046Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "2",
+      "object_repr": "Facebook",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2025-09-15T22:11:14.518Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "3",
+      "object_repr": "Instagram",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2025-09-15T22:33:33.976Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "3",
+      "object_repr": "Instagram",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2025-09-15T22:50:23.360Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "Aviso legal",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2025-09-15T22:53:32.014Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "Cookies",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2025-09-15T23:29:19.264Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "Politica de privacidad",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2025-09-16T23:10:18.395Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "Aviso legal",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2025-09-17T21:42:14.354Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "Politica de privacidad",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2025-09-17T21:43:46.113Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "Politica de privacidad",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2025-09-18T20:38:24.573Z",
+      "user": 1,
+      "content_type": 3,
+      "object_id": "1",
+      "object_repr": "Personal",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2025-09-18T20:42:30.565Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "2",
+      "object_repr": "test",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2025-09-18T20:43:11.851Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "2",
+      "object_repr": "test",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Staff status\", \"Groups\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2025-09-19T20:24:44.425Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "HELADOS Y BEBIDAS",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Content\", \"Image\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2025-09-19T20:30:18.771Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "HELADOS Y BEBIDAS",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2025-09-19T20:33:31.190Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "HELADOS Y BEBIDAS",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2025-09-19T22:05:28.842Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "También vendemos",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Content\", \"Image\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2025-09-19T22:07:18.715Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "También vendemos",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2025-09-19T22:10:35.784Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "HELADOS Y BEBIDAS",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2025-09-19T22:18:41.007Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "POSTRES ARTESANALES",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Content\", \"Image\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2025-09-19T22:20:27.879Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "TAMBIÉN VENDEMOS",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Subtitle\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2025-09-19T22:49:01.297Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "OFERTAS DE OTOÑO",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2025-09-19T22:51:34.908Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "OFERTAS DE OTOÑO",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2025-09-19T22:55:18.571Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "OFERTAS DE OTOÑO",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2025-09-19T22:59:14.122Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "AVISO LEGAL",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2025-09-19T23:00:21.144Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "Cookies",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2025-09-19T23:00:32.693Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "COOKIES",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2025-09-19T23:01:25.120Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "POLITICA DE PRIVACIDAD",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2025-09-19T23:01:33.381Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "COOKIES",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2025-09-19T23:03:40.422Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "AVISO LEGAL",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2025-09-19T23:36:56.522Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "PROXIMAMENTE",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2025-09-19T23:37:58.568Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "PROXIMAMENTE",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2025-09-19T23:41:10.120Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "CURIOSIDADES SOBRE GATOS",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+      "action_time": "2025-09-19T23:41:41.152Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "CURIOSIDADES SOBRE GATOS",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 4,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 4,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 4,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 4,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 5,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 5,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 5,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 5,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 6,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 6,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 6,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 6,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add service",
+      "content_type": 7,
+      "codename": "add_service"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change service",
+      "content_type": 7,
+      "codename": "change_service"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete service",
+      "content_type": 7,
+      "codename": "delete_service"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view service",
+      "content_type": 7,
+      "codename": "view_service"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add post",
+      "content_type": 8,
+      "codename": "add_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change post",
+      "content_type": 8,
+      "codename": "change_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete post",
+      "content_type": 8,
+      "codename": "delete_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view post",
+      "content_type": 8,
+      "codename": "view_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add category",
+      "content_type": 9,
+      "codename": "add_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change category",
+      "content_type": 9,
+      "codename": "change_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete category",
+      "content_type": 9,
+      "codename": "delete_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view category",
+      "content_type": 9,
+      "codename": "view_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add link",
+      "content_type": 10,
+      "codename": "add_link"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change link",
+      "content_type": 10,
+      "codename": "change_link"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete link",
+      "content_type": 10,
+      "codename": "delete_link"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view link",
+      "content_type": 10,
+      "codename": "view_link"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+      "name": "Can add page",
+      "content_type": 11,
+      "codename": "add_page"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+      "name": "Can change page",
+      "content_type": 11,
+      "codename": "change_page"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+      "name": "Can delete page",
+      "content_type": 11,
+      "codename": "delete_page"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+      "name": "Can view page",
+      "content_type": 11,
+      "codename": "view_page"
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 1,
+    "fields": {
+      "name": "Personal",
+      "permissions": [
+        33,
+        34,
+        35,
+        36,
+        29,
+        30,
+        31,
+        32,
+        41,
+        42,
+        43,
+        44,
+        25,
+        26,
+        27,
+        28,
+        38
+      ]
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$1000000$sAKx5o9oFthxE1HB1GybCF$j7vG4rfOnxh9vRsieAFukkSQZN6yiiY34AG+wuEplA8=",
+      "last_login": "2025-09-18T20:53:52.843Z",
+      "is_superuser": true,
+      "username": "david",
+      "first_name": "",
+      "last_name": "",
+      "email": "prueba@daviddevelop.net",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2025-09-02T00:47:36.986Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$1000000$XPifQwXgSeeEluWO9I6Hmg$CordAb8CVQJn//ee47NjjoKAl8KyG562VPa2nsxe5zk=",
+      "last_login": "2025-09-18T20:43:35.447Z",
+      "is_superuser": false,
+      "username": "test",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2025-09-18T20:42:29Z",
+      "groups": [
+        1
+      ],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "auth",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "services",
+      "model": "service"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "blog",
+      "model": "post"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+      "app_label": "blog",
+      "model": "category"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+      "app_label": "social",
+      "model": "link"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+      "app_label": "pages",
+      "model": "page"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "7g19mil646m5hkcqvjufeym16idqarvw",
+    "fields": {
+      "session_data": ".eJxVjEsOAiEQBe_C2hD5g0v3noHQTSOjBpJhZmW8uyGZhW5fVb03i2nfatwHrXHJ7MIEO_1ukPBJbYL8SO3eOfa2rQvwqfCDDn7rmV7Xw_07qGnUWWvhfXFoJepiQdMZwXsjA0AhzCYLm0kgKTDSSVIlqOS882RQggrIPl8AeTin:1utFDr:9WvJzihhNp9nmRyddidg8LbzBZMyuEZdqZUX4tYm3tk",
+      "expire_date": "2025-09-16T00:50:07.632Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "yq00409rd3vanlmoavedxdhucnmx9htr",
+    "fields": {
+      "session_data": ".eJxVjEsOAiEQBe_C2hD5g0v3noHQTSOjBpJhZmW8uyGZhW5fVb03i2nfatwHrXHJ7MIEO_1ukPBJbYL8SO3eOfa2rQvwqfCDDn7rmV7Xw_07qGnUWWvhfXFoJepiQdMZwXsjA0AhzCYLm0kgKTDSSVIlqOS882RQggrIPl8AeTin:1uzLdY:fnV5QYq622WI3tazVmYtP-82ZYA63Cs8edwSe1arOYk",
+      "expire_date": "2025-10-02T20:53:52.875Z"
+    }
+  },
+  {
+    "model": "blog.category",
+    "pk": 2,
+    "fields": {
+      "name": "General",
+      "created": "2025-09-04T21:02:19.468Z",
+      "updated": "2025-09-04T21:02:19.468Z"
+    }
+  },
+  {
+    "model": "blog.category",
+    "pk": 3,
+    "fields": {
+      "name": "Ofertas",
+      "created": "2025-09-05T17:38:47.580Z",
+      "updated": "2025-09-05T17:38:47.580Z"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 1,
+    "fields": {
+      "title": "OFERTAS DE OTOÑO",
+      "content": "<p style=\"text-align:justify\">🌟 Ofertas Especiales de Oto&ntilde;o en Neko Cream 🍂</p>\r\n\r\n<p style=\"text-align:justify\">🍁 <strong>Combo Gatito Oto&ntilde;al</strong><br />\r\nHelado en forma de gatito + bebida tem&aacute;tica de temporada con sabores a calabaza y canela.<br />\r\n<strong>Precio especial: 120 MXN</strong></p>\r\n\r\n<p style=\"text-align:justify\">🍁 <strong>D&uacute;o Dulce Oto&ntilde;o</strong><br />\r\nDos helados artesanales + topping de nuez caramelizada o chispitas de chocolate.<br />\r\n<strong>&iexcl;Ll&eacute;valos por solo 150 MXN!</strong></p>\r\n\r\n<p style=\"text-align:justify\">🍁 <strong>Bebida Refrescante de Temporada</strong><br />\r\nPrueba nuestras bebidas japonesas con toques de jengibre y manzana verde.<br />\r\n<strong>Oferta: 2x1 en sabores selectos.</strong></p>\r\n\r\n<p style=\"text-align:justify\">🍁 <strong>Helado + Postre Tem&aacute;tico</strong><br />\r\nHelado + mini pastel con decoraci&oacute;n oto&ntilde;al.<br />\r\n<strong>Precio especial: 180 MXN</strong></p>\r\n\r\n<p style=\"text-align:justify\">🍁 <strong>Kit Para Hacer tu Propio Helado</strong><br />\r\nCompra ingredientes seleccionados para crear helados en casa: conos, chispitas, endulzantes y m&aacute;s.<br />\r\n<strong>&iexcl;10% de descuento durante todo el oto&ntilde;o!</strong></p>",
+      "published": "2025-09-04T21:02:36Z",
+      "image": "blog/products-01_pS2XqR0.jpg",
+      "author": 1,
+      "created": "2025-09-04T21:03:19.364Z",
+      "updated": "2025-09-19T22:55:18.563Z",
+      "categories": [
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 2,
+    "fields": {
+      "title": "PROXIMAMENTE",
+      "content": "<p>ESPERALO!!</p>",
+      "published": "2025-09-19T23:35:09Z",
+      "image": "blog/navidad.jpg",
+      "author": 1,
+      "created": "2025-09-19T23:36:56.513Z",
+      "updated": "2025-09-19T23:37:58.512Z",
+      "categories": [
+        2
+      ]
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 3,
+    "fields": {
+      "title": "CURIOSIDADES SOBRE GATOS",
+      "content": "<ul>\r\n\t<li style=\"text-align: justify;\">Un gato pasa de media&nbsp;<strong>2/3 del d&iacute;a durmiendo</strong>. &iexcl;Eso significa que en 9 a&ntilde;os de vida, s&oacute;lo est&aacute; despierto 3 a&ntilde;os!</li>\r\n\t<li style=\"text-align: justify;\">Los gatos no saborean lo dulce.</li>\r\n\t<li style=\"text-align: justify;\">Cuando un gato persigue una presa, a diferencia de un perro o humano, mantiene la cabeza siempre hacia abajo.</li>\r\n\t<li style=\"text-align: justify;\">Las&nbsp;<strong><a href=\"https://www.anicura.es/consejos-de-salud/gato/consejos-de-salud/todo-sobre-las-bolas-de-pelo-en-gatos2/\" title=\"bolas de pelo\">bolas de pelo</a></strong>&nbsp;que vomitan se llaman egagr&oacute;pilas.</li>\r\n\t<li style=\"text-align: justify;\">Las gatas tienden a ser diestras, mientras que los gatos tienden a ser mayoritariamente zurdos.</li>\r\n\t<li style=\"text-align: justify;\">Un gato hace alrededor de 100 sonidos diferentes, mientras que un perro hace alrededor de 10.</li>\r\n\t<li style=\"text-align: justify;\"><strong>El cerebro de un gato es biol&oacute;gicamente m&aacute;s similar al de un humano que al de un perro</strong>. Tanto humanos como gatos tienen una regi&oacute;n id&eacute;ntica en el cerebro responsable de las emociones.</li>\r\n\t<li style=\"text-align: justify;\">Existen m&aacute;s de 500 millones de gatos dom&eacute;sticos en el mundo, y aproximadamente 40 razas reconocidas.</li>\r\n</ul>",
+      "published": "2025-09-19T23:39:16Z",
+      "image": "blog/curiosidades_v1.jpg",
+      "author": 1,
+      "created": "2025-09-19T23:41:10.120Z",
+      "updated": "2025-09-19T23:41:41.142Z",
+      "categories": [
+        2
+      ]
+    }
+  },
+  {
+    "model": "pages.page",
+    "pk": 1,
+    "fields": {
+      "title": "AVISO LEGAL",
+      "content": "<ol>\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Informaci&oacute;n general</strong></p>\r\n\t</li>\r\n</ol>\r\n\r\n<p style=\"text-align:justify\">En cumplimiento con la legislaci&oacute;n vigente, se informa a los usuarios que el presente sitio web es operado por:</p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Titular:</strong> Neko Cream S.A. de C.V.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Domicilio social:</strong> Calle Niebla 456, Colonia Brisa del Lago, Alcald&iacute;a &Aacute;lvaro Obreg&oacute;n, Ciudad de M&eacute;xico, CP 01780</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Correo electr&oacute;nico:</strong> contacto@nekocream.mx</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Tel&eacute;fono de contacto:</strong> (55) 9203-99585-8468</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>RFC:</strong> NEC123456789</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p style=\"text-align:justify\">El acceso y uso de este sitio web implica la aceptaci&oacute;n plena de los t&eacute;rminos y condiciones establecidos en este Aviso Legal.</p>\r\n\r\n<ol start=\"2\">\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Objeto</strong></p>\r\n\t</li>\r\n</ol>\r\n\r\n<p style=\"text-align:justify\">El presente sitio web tiene como finalidad informar sobre los productos y servicios de Neko Cream, incluyendo la venta de helados artesanales, bebidas tem&aacute;ticas y productos relacionados.</p>\r\n\r\n<p style=\"text-align:justify\">Los contenidos ofrecidos son meramente informativos y no constituyen asesoramiento profesional.</p>\r\n\r\n<ol start=\"3\">\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Propiedad intelectual e industrial</strong></p>\r\n\t</li>\r\n</ol>\r\n\r\n<p style=\"text-align:justify\">Todos los contenidos del sitio web (textos, im&aacute;genes, dise&ntilde;os, logotipos, software, etc.) son propiedad de Neko Cream o de terceros autorizados y est&aacute;n protegidos por la legislaci&oacute;n vigente en materia de propiedad intelectual e industrial.</p>\r\n\r\n<p style=\"text-align:justify\">Queda prohibida su reproducci&oacute;n, distribuci&oacute;n, comunicaci&oacute;n p&uacute;blica o transformaci&oacute;n sin la autorizaci&oacute;n expresa de Neko Cream.</p>\r\n\r\n<ol start=\"4\">\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Responsabilidad</strong></p>\r\n\t</li>\r\n</ol>\r\n\r\n<p style=\"text-align:justify\">Neko Cream no se responsabiliza de los da&ntilde;os o perjuicios derivados del uso de los contenidos, ni garantiza la ausencia de virus u otros elementos lesivos que puedan afectar los sistemas inform&aacute;ticos del usuario.</p>\r\n\r\n<ol start=\"5\">\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Enlaces a terceros</strong></p>\r\n\t</li>\r\n</ol>\r\n\r\n<p style=\"text-align:justify\">Este sitio web puede contener enlaces a sitios web de terceros. Neko Cream no se responsabiliza del contenido, pol&iacute;ticas o pr&aacute;cticas de dichos sitios.</p>\r\n\r\n<ol start=\"6\">\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Modificaciones</strong></p>\r\n\t</li>\r\n</ol>\r\n\r\n<p style=\"text-align:justify\">Neko Cream se reserva el derecho de modificar el presente Aviso Legal en cualquier momento, sin necesidad de previo aviso. Las modificaciones entrar&aacute;n en vigor desde su publicaci&oacute;n en el sitio web.</p>\r\n\r\n<ol start=\"7\">\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Legislaci&oacute;n aplicable</strong></p>\r\n\t</li>\r\n</ol>\r\n\r\n<p style=\"text-align:justify\">Este Aviso Legal se rige por la legislaci&oacute;n vigente en M&eacute;xico, y cualquier controversia se someter&aacute; a los juzgados y tribunales competentes de la Ciudad de M&eacute;xico.</p>",
+      "order": 0,
+      "created": "2025-09-15T22:50:23.354Z",
+      "updated": "2025-09-19T23:03:40.415Z"
+    }
+  },
+  {
+    "model": "pages.page",
+    "pk": 2,
+    "fields": {
+      "title": "COOKIES",
+      "content": "<p style=\"text-align:justify\">Este sitio web utiliza cookies propias y de terceros con el fin de mejorar la experiencia del usuario, analizar el uso del sitio y mostrar contenido personalizado.</p>\r\n\r\n<p style=\"text-align:justify\">Al continuar navegando, entendemos que aceptas nuestra pol&iacute;tica de cookies, salvo que configures tu navegador para bloquearlas.</p>\r\n\r\n<p style=\"text-align:justify\"><strong>&iquest;Qu&eacute; son las cookies?</strong><br />\r\nLas cookies son peque&ntilde;os archivos de texto que los sitios web almacenan en el dispositivo del usuario al acceder a una p&aacute;gina. Su finalidad principal es reconocer al usuario en sus pr&oacute;ximas visitas, recordar sus preferencias y facilitar la navegaci&oacute;n. Aunque no almacenan datos personales directos, pueden estar asociadas a informaci&oacute;n que permita identificarte.</p>\r\n\r\n<p style=\"text-align:justify\"><strong>Tipos de cookies que utilizamos:</strong></p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Cookies t&eacute;cnicas o necesarias:</strong><br />\r\n\tSon esenciales para el funcionamiento b&aacute;sico del sitio. Sin ellas, algunas funciones no estar&iacute;an disponibles.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Cookies de personalizaci&oacute;n:</strong><br />\r\n\tPermiten recordar ciertas configuraciones, como el idioma o la regi&oacute;n desde la que accedes.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Cookies de an&aacute;lisis:</strong><br />\r\n\tRecopilan estad&iacute;sticas sobre el comportamiento de los usuarios, como las p&aacute;ginas m&aacute;s visitadas o el tiempo de permanencia, para poder mejorar el contenido y la usabilidad del sitio.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\"><strong>Cookies de terceros:</strong><br />\r\n\tPueden emplearse con fines publicitarios o de integraci&oacute;n con redes sociales. Estas cookies son gestionadas por servicios externos como Google Analytics, YouTube o plataformas sociales, y pueden recopilar informaci&oacute;n an&oacute;nima sobre tu navegaci&oacute;n, incluso fuera de este sitio.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p style=\"text-align:justify\"><strong>Cookies propias y de terceros</strong><br />\r\nLas cookies que usamos pueden ser propias (gestionadas directamente por Neko Cream) o de terceros (instaladas por servicios externos).</p>\r\n\r\n<p style=\"text-align:justify\"><strong>Gesti&oacute;n de cookies</strong><br />\r\nTienes la posibilidad de permitir, bloquear o eliminar las cookies instaladas en tu dispositivo mediante la configuraci&oacute;n de tu navegador. Cada navegador ofrece opciones para gestionar las cookies, como permitirlas de forma general, bloquearlas totalmente, eliminar cookies espec&iacute;ficas o configurar alertas antes de que se instalen.</p>\r\n\r\n<p style=\"text-align:justify\">Puedes consultar la ayuda de tu navegador para saber c&oacute;mo hacerlo.</p>\r\n\r\n<p style=\"text-align:justify\"><strong>Consentimiento</strong><br />\r\nAl acceder por primera vez a este sitio, te mostramos un aviso sobre el uso de cookies. Puedes aceptar todas, rechazarlas o configurar cu&aacute;les permitir. Las cookies que no sean estrictamente necesarias se instalar&aacute;n solo si das tu consentimiento expreso.</p>\r\n\r\n<p style=\"text-align:justify\"><strong>Actualizaciones</strong><br />\r\nNos reservamos el derecho de actualizar esta Pol&iacute;tica de Cookies para adaptarla a cambios legislativos o t&eacute;cnicos. Recomendamos revisar este documento peri&oacute;dicamente para estar informado sobre c&oacute;mo y para qu&eacute; usamos las cookies.</p>",
+      "order": 0,
+      "created": "2025-09-15T22:53:32.009Z",
+      "updated": "2025-09-19T23:01:33.373Z"
+    }
+  },
+  {
+    "model": "pages.page",
+    "pk": 3,
+    "fields": {
+      "title": "POLITICA DE PRIVACIDAD",
+      "content": "<p style=\"text-align:justify\">La presente Pol&iacute;tica de Privacidad establece los t&eacute;rminos en que Neko Cream utiliza y protege la informaci&oacute;n que es proporcionada por sus usuarios al momento de utilizar este sitio web.</p>\r\n\r\n<p style=\"text-align:justify\">Nos comprometemos a garantizar la seguridad de los datos de nuestros usuarios. Cuando te solicitamos llenar los campos de informaci&oacute;n personal con la cual puedas ser identificado, lo hacemos asegurando que dicha informaci&oacute;n ser&aacute; usada &uacute;nicamente conforme a los t&eacute;rminos de este documento.</p>\r\n\r\n<p style=\"text-align:justify\">Este sitio web puede recopilar datos personales como nombre, direcci&oacute;n de correo electr&oacute;nico, n&uacute;mero telef&oacute;nico u otros datos similares, &uacute;nicamente cuando el usuario los proporciona voluntariamente a trav&eacute;s de formularios de contacto, suscripci&oacute;n u otros medios habilitados. Esta informaci&oacute;n ser&aacute; utilizada exclusivamente para responder tus consultas, gestionar los servicios solicitados o mejorar tu experiencia con Neko Cream.</p>\r\n\r\n<p style=\"text-align:justify\">Las finalidades principales para la recogida de datos personales incluyen, pero no se limitan a:</p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p style=\"text-align:justify\">Responder solicitudes o consultas.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\">Enviar comunicaciones informativas y promociones (solo si el usuario lo autoriza expresamente).</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\">Permitir el acceso a &aacute;reas privadas del sitio, si aplica.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\">Cumplir con obligaciones legales vigentes.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p style=\"text-align:justify\">Tus datos no ser&aacute;n usados para fines distintos a los indicados ni ser&aacute;n compartidos con terceros sin tu consentimiento expreso, salvo en los casos en que la ley lo requiera.</p>\r\n\r\n<p style=\"text-align:justify\">Neko Cream se compromete a tratar tus datos de manera confidencial y segura, implementando las medidas t&eacute;cnicas y organizativas necesarias para protegerlos contra p&eacute;rdida, acceso no autorizado o divulgaci&oacute;n indebida.</p>\r\n\r\n<p style=\"text-align:justify\">En cualquier momento, puedes ejercer tus derechos de acceso, rectificaci&oacute;n, cancelaci&oacute;n, oposici&oacute;n, limitaci&oacute;n del tratamiento y portabilidad de tus datos personales enviando una solicitud escrita junto con una copia de tu identificaci&oacute;n oficial al correo electr&oacute;nico: <strong>privacidad@nekocream.mx</strong></p>\r\n\r\n<p style=\"text-align:justify\">Este sitio web puede contener enlaces a otros sitios externos que podr&iacute;an ser de tu inter&eacute;s. Al hacer clic en estos enlaces y abandonar nuestra p&aacute;gina, ya no tenemos control sobre el contenido ni las pol&iacute;ticas de privacidad de esos sitios, por lo que no nos responsabilizamos por la protecci&oacute;n de tus datos en ellos.</p>\r\n\r\n<p style=\"text-align:justify\">Nos reservamos el derecho de modificar esta Pol&iacute;tica de Privacidad en cualquier momento. Cualquier cambio ser&aacute; publicado en esta misma p&aacute;gina, por lo que te recomendamos revisarla peri&oacute;dicamente para mantenerte informado y asegurarte de estar conforme con las actualizaciones.</p>\r\n\r\n<p style=\"text-align:justify\">Al utilizar este sitio web, se entiende que has le&iacute;do, comprendido y aceptado los t&eacute;rminos de esta Pol&iacute;tica de Privacidad.</p>",
+      "order": 0,
+      "created": "2025-09-15T23:29:19.257Z",
+      "updated": "2025-09-19T23:01:25.110Z"
+    }
+  },
+  {
+    "model": "services.service",
+    "pk": 1,
+    "fields": {
+      "title": "HELADOS Y BEBIDAS",
+      "subtitle": "LA MEZCLA PERFECTA",
+      "content": "<p style=\"text-align:justify\"><strong>Disfruta del sabor que despierta sonrisas.</strong> En <strong>Neko Cream</strong>, cada cucharada y cada sorbo est&aacute;n hechos con pasi&oacute;n y fantas&iacute;a. Sum&eacute;rgete en una experiencia dulce e inolvidable con nuestros helados artesanales y bebidas refrescantes. Ingredientes de primera y un toque de magia hacen que cada visita sea una nueva aventura. Porque en Neko Cream, los sabores no solo se prueban...</p>\r\n\r\n<p style=\"text-align:justify\">&iexcl;se sienten!</p>\r\n\r\n<p style=\"text-align:justify\"><strong>&iquest;Qu&eacute; hace &uacute;nico a Neko Cream?</strong><br />\r\n🐾 <strong>Nuestros helados estrella: adorables y deliciosos helados en forma de gatitos</strong> que te enamorar&aacute;n a primera vista<br />\r\n🎎 Postres tem&aacute;ticos inspirados en el anime y la cultura japonesa, perfectos para tus momentos especiales<br />\r\n🍹 Bebidas refrescantes con sabores &uacute;nicos y una vibra japonesa aut&eacute;ntica</p>\r\n\r\n<p style=\"text-align:justify\">&iexcl;Ven y vive la dulzura hecha arte en Neko Cream! Una experiencia que encantar&aacute; a todos los sentidos.</p>",
+      "image": "services/products-01_X2LRRVf.jpg",
+      "created": "2025-09-04T00:11:03.667Z",
+      "updated": "2025-09-19T22:10:35.780Z"
+    }
+  },
+  {
+    "model": "services.service",
+    "pk": 2,
+    "fields": {
+      "title": "POSTRES ARTESANALES",
+      "subtitle": "El mejor acompañamiento",
+      "content": "<p>En Neko Cream, cada bocado es una sonrisa que se disfruta. Descubre:</p>\r\n\r\n<p>🍰 <strong>Pasteles miniatura con dise&ntilde;os &uacute;nicos</strong> &mdash; perfectos para cualquier antojo.<br />\r\n🍦 <strong>Paletas artesanales con sabores ex&oacute;ticos</strong> &mdash; frescas y llenas de sabor.<br />\r\n🧁 <strong>Cupcakes tem&aacute;ticos</strong> &mdash; decorados con arte y mucho cari&ntilde;o.</p>\r\n\r\n<p>Con ingredientes selectos y un toque de magia, en Neko Cream cada visita es un dulce viaje que despierta tus sentidos.</p>",
+      "image": "services/products-02_Cq8q3S2.jpg",
+      "created": "2025-09-04T00:12:44.488Z",
+      "updated": "2025-09-19T22:18:40.996Z"
+    }
+  },
+  {
+    "model": "services.service",
+    "pk": 3,
+    "fields": {
+      "title": "TAMBIÉN VENDEMOS",
+      "subtitle": "PRODUCTOS CERTIFICADOS",
+      "content": "<p style=\"text-align:justify\">En Neko Cream, cada helado es una experiencia &uacute;nica que despierta todos tus sentidos. Elaboramos con pasi&oacute;n y cuidado, combinando sabores frescos y texturas cremosas que conquistan a grandes y peque&ntilde;os. Nuestro compromiso es ofrecerte momentos dulces llenos de magia y sabor, para que cada visita sea un recuerdo inolvidable.</p>\r\n\r\n<p style=\"text-align:justify\">Adem&aacute;s, ponemos a tu disposici&oacute;n todo lo necesario para que puedas crear tus propios helados en casa. Encuentra en nuestra tienda una selecci&oacute;n de productos de alta calidad, como:</p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p style=\"text-align:justify\">Chispitas de colores y sabores variados</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\">Endulzantes naturales y alternativos</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\">Conos crocantes y de diferentes tama&ntilde;os</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\">Bases cremosas y mezclas para helado artesanal</p>\r\n\t</li>\r\n\t<li>\r\n\t<p style=\"text-align:justify\">Frutas deshidratadas y toppings especiales</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p style=\"text-align:justify\">En Neko Cream, no solo disfrutamos de ofrecerte los mejores helados, sino tambi&eacute;n de compartir la pasi&oacute;n por crear y experimentar con el dulce arte del helado.</p>",
+      "image": "services/products-03_SMjuotG.jpg",
+      "created": "2025-09-04T00:13:39.134Z",
+      "updated": "2025-09-19T22:20:27.877Z"
+    }
+  },
+  {
+    "model": "social.link",
+    "pk": 1,
+    "fields": {
+      "key": "LINK_X",
+      "name": "X",
+      "url": "http://x.com",
+      "created": "2025-09-15T22:09:35.734Z",
+      "updated": "2025-09-15T22:09:35.734Z"
+    }
+  },
+  {
+    "model": "social.link",
+    "pk": 2,
+    "fields": {
+      "key": "LINK_FACEBOOK",
+      "name": "Facebook",
+      "url": "http://facebook.com",
+      "created": "2025-09-15T22:10:39.042Z",
+      "updated": "2025-09-15T22:10:39.042Z"
+    }
+  },
+  {
+    "model": "social.link",
+    "pk": 3,
+    "fields": {
+      "key": "LINK_INSTAGRAM",
+      "name": "Instagram",
+      "url": "https://www.instagram.com/",
+      "created": "2025-09-15T22:11:14.518Z",
+      "updated": "2025-09-15T22:33:33.956Z"
+    }
+  }
+]
