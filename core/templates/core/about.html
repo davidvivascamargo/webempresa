@@ -1,0 +1,27 @@
+{% extends 'core/base.html' %}
+
+{% load static %}
+
+{% block title %}Historia{% endblock %}
+
+{% block content %}
+<section class="page-section about-heading">
+  <div class="container">
+    <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="{% static 'core/img/about.jpg' %}" alt="">
+    <div class="about-heading-content">
+      <div class="row">
+        <div class="col-xl-9 col-lg-10 mx-auto">
+          <div class="bg-faded rounded p-5">
+            <h2 class="section-heading mb-4">
+              <span class="section-heading-upper">Amor gatuno y magia japonesa en cada sabor</span>
+              <span class="section-heading-lower">Nuestra historia</span>
+            </h2>
+            <p style="text-align: justify;">En 2025, Neko Cream nació con una misión: endulzar tu vida con la ternura y el encanto de nuestros helados gatunos. Desde entonces, hemos creado sabores que despiertan sonrisas y aventuras en cada cucharada.</p>
+            <p style="text-align: justify;">  Como los felinos, somos curiosos y juguetones, siempre buscando innovar con productos únicos, frescos y llenos de fantasía. En Neko Cream, cada visita es una experiencia que ronronea de felicidad.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}
