@@ -25,31 +25,23 @@ https://docs.djangoproject.com/en/5.2/howto/deployment/wsgi/
 """
 import os
 import django
-from django.core.management import call_command
 from django.core.wsgi import get_wsgi_application
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "webempresa.settings")
 
-# Inicializamos Django
 django.setup()
 
-# Ejecutamos migraciones automáticamente
-try:
-    call_command('migrate', interactive=False)
-    print("Migraciones aplicadas con éxito")
-except Exception as e:
-    print(f"Error al correr migraciones: {e}")
+# Importa tu función que carga los datos
+#from webempresa.load_data import run
 
-# Cargar datos si la base está vacía
-try:
-    from blog.models import Post  # Cambia esto por un modelo real tuyo
-    if not Post.objects.exists():
-        call_command('loaddata', 'datos.json')
-        print("Datos cargados correctamente")
-    else:
-        print("Ya hay datos, no se cargaron de nuevo.")
-except Exception as e:
-    print(f"Error al cargar datos: {e}")
+# Ejecuta la carga de datos (esto lo puedes controlar para que solo corra la primera vez)
+#run()
 
-# Levantamos la aplicación
+# Cargar datos automáticamente si es necesario
+try:
+    import load_data
+except Exception as e:
+    print(f"⚠ Error al ejecutar load_data: {e}")
+
 application = get_wsgi_application()
+
