@@ -328,19 +328,19 @@ ul.errorlist{
 
 @keyframes rgbColorChange {
   0% {
-    color: rgb(245, 127, 53);   /* naranja vibrante */
+    color: rgb(245, 127, 53);
   }
   25% {
-    color: rgb(249, 85, 107);  /* rojo coral suave */
+    color: rgb(249, 85, 107);
   }
   50% {
-    color: rgb(252, 84, 120);  /* rosa brillante */
+    color: rgb(252, 84, 120);
   }
   75% {
-    color: rgb(249, 141, 107);  /* melocotón */
+    color: rgb(249, 141, 107);
   }
   100% {
-    color: rgb(245, 127, 53);   /* vuelve al naranja vibrante */
+    color: rgb(245, 127, 53);
   }
 
 }
