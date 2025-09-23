@@ -36,7 +36,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'clave_insegura_por_defecto')
 
 #ALLOWED_HOSTS = []
 #ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', 'localhost').split(',')
-ALLOWED_HOSTS = ['webempresa-fpgb.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
+
 
 
 
@@ -103,10 +104,13 @@ DATABASES = {
 '''
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',  # o 'django.db.backends.postgresql'
-        'NAME': BASE_DIR / 'db.sqlite3',         # para SQLite
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
+import django
+django.setup()
 
 
 # Password validation
