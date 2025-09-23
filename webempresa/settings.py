@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'clave_insegura_por_defecto')
 
 # SECURITY WARNING: don't run with debug turned on in production!#DEBUG = True
 #DEBUG = os.environ.get('DEBUG', 'False') == 'True'
-#DEBUG = True
+DEBUG = True
 
 
 #ALLOWED_HOSTS = []
