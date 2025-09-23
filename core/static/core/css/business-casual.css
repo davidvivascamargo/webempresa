@@ -372,15 +372,15 @@ ul.errorlist{
     overflow-wrap: normal; 
   }*/
   .section-heading-lower {
-  font-size: clamp(1rem, 5vw, 3rem); /* ajusta tamaño entre 1rem y 3rem según pantalla */
-  white-space: nowrap; /* evita que la palabra se parta */
-  overflow: hidden; /* oculta cualquier exceso */
-  text-overflow: ellipsis; /* muestra puntos suspensivos si es demasiado largo */
-  max-width: 100%; /* que no desborde el contenedor */
+  font-size: clamp(0.8rem, 5vw, 3rem); /* tamaño entre 0.8rem y 3rem según ancho de pantalla */
+  white-space: nowrap; /* evita que las palabras se partan o hagan salto de línea */
+  overflow: visible; /* no ocultar nada */
+  max-width: 100%;
   display: block;
   margin: 0 auto;
   text-align: center;
-  }
+}
+
 
 
 
