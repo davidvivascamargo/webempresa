@@ -372,13 +372,16 @@ ul.errorlist{
     overflow-wrap: normal; 
   }*/
   .section-heading-lower {
-    font-size: 6vw;             /* Ajusta el tamaño a la pantalla */
-    line-height: 1.2;
-    white-space: normal;        /* Permite saltos de línea */
-    word-break: keep-all;       /* NO corta las palabras */
-    overflow-wrap: break-word;  /* Permite saltos solo si hay guiones o espacio */
-    text-align: center;         /* Asegura que esté centrado */
+  font-size: clamp(1rem, 5vw, 3rem); /* ajusta tamaño entre 1rem y 3rem según pantalla */
+  white-space: nowrap; /* evita que la palabra se parta */
+  overflow: hidden; /* oculta cualquier exceso */
+  text-overflow: ellipsis; /* muestra puntos suspensivos si es demasiado largo */
+  max-width: 100%; /* que no desborde el contenedor */
+  display: block;
+  margin: 0 auto;
+  text-align: center;
   }
+
 
 
   .cta .cta-inner {
