@@ -363,14 +363,22 @@ ul.errorlist{
   height: 100%;
 }
 @media (max-width: 576px) {
+  /*
   .section-heading-lower {
-    font-size: 5vw; /* tamaño relativo al ancho de la pantalla */
+    font-size: 5vw; 
     line-height: 1.2;
-    white-space: normal; /* permite saltos de línea */
-    word-break: normal;  /* no corta palabras */
-    overflow-wrap: normal; /* evita cortar palabras */
+    white-space: normal; 
+    word-break: normal;  
+    overflow-wrap: normal; 
+  }*/
+  .section-heading-lower {
+    font-size: calc(1.5rem + 1vw); /* tamaño adaptable */
+    line-height: 2rem;
+    white-space: normal;       /* permite saltos de línea */
+    word-break: normal;        /* evita partir palabras */
+    overflow-wrap: normal;     /* evita cortar palabras */
+    hyphens: none;             /* no usar guiones para partir palabras */
   }
-  
 
   .cta .cta-inner {
     padding: 1.5rem;
