@@ -372,12 +372,12 @@ ul.errorlist{
     overflow-wrap: normal; 
   }*/
   .section-heading-lower {
-    font-size: calc(1.5rem + 1vw); /* tamaño adaptable */
-    line-height: 2rem;
-    white-space: normal;       /* permite saltos de línea */
-    word-break: normal;        /* evita partir palabras */
-    overflow-wrap: normal;     /* evita cortar palabras */
-    hyphens: none;             /* no usar guiones para partir palabras */
+    font-size: 1.3rem; /* letra más chica para ajustarse */
+    white-space: normal; /* permite salto de línea */
+    overflow-wrap: normal; /* evita cortar palabra */
+    word-break: normal; /* evita partir palabra */
+  
+            /* no usar guiones para partir palabras */
   }
 
   .cta .cta-inner {
