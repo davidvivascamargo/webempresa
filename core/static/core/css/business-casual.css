@@ -364,13 +364,12 @@ ul.errorlist{
 }
 @media (max-width: 576px) {
   .section-heading-lower {
-    font-size: 2rem;
-    line-height: 2.5rem;
-    word-break: keep-all;
-    white-space: nowrap;
+    font-size: 1.5rem; /* o usa una unidad relativa como vw */
+    line-height: 2rem;
+    white-space: normal; /* permite saltos de línea */
+    word-break: normal;  /* evita partir palabras */
+    overflow-wrap: break-word; /* permite saltos de línea en palabras largas */
   }
-
-  
 
   .cta .cta-inner {
     padding: 1.5rem;
