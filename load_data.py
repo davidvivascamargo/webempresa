@@ -1,13 +1,3 @@
-'''
-from django.core.management import call_command
-
-def run():
-    try:
-        call_command('loaddata', 'datos.json')
-        print("Datos importados correctamente")
-    except Exception as e:
-        print(f"Error importando datos: {e}")
-'''
 import os
 import django
 

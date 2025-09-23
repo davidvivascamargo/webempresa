@@ -22,9 +22,7 @@ def contact(request):
             )
             try:
                 email.send()
-                #Todo ha ido bien, redireccionamos a OK
                 return redirect(reverse('contact')+"?ok")
             except: 
-                #Algo no ha ido bien, redireccionamos a FAIL
                 return redirect(reverse('contact')+"?fail")
     return render(request, "contact/contact.html", {'form':contact_form})
