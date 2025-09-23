@@ -371,15 +371,13 @@ ul.errorlist{
     word-break: normal;  
     overflow-wrap: normal; 
   }*/
-.section-heading-lower {
-    display: block;
-    font-size: 1.3rem;
-    line-height: 1.4;
-    white-space: normal;
-    word-break: keep-all; /* No rompas palabras nunca */
-    overflow-wrap: break-word;
-    text-align: center;
-    margin: 0 auto;
+  .section-heading-lower {
+    font-size: 6vw;             /* Ajusta el tamaño a la pantalla */
+    line-height: 1.2;
+    white-space: normal;        /* Permite saltos de línea */
+    word-break: keep-all;       /* NO corta las palabras */
+    overflow-wrap: break-word;  /* Permite saltos solo si hay guiones o espacio */
+    text-align: center;         /* Asegura que esté centrado */
   }
 
 
