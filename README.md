@@ -23,7 +23,7 @@ Campos de solo lectura (created, updated) y ordenamiento automático.
 
 Búsquedas y filtros mejorados en el admin.
 
-Frontend dinámico
+🌐 Frontend dinámico
 
 Contenido cargado directamente desde el admin de Django:
 
@@ -35,7 +35,7 @@ Formularios funcionales con validación, incluyendo el formulario de contacto.
 
 Contenido enriquecido con CKEditor en servicios y posts.
 
-Backend
+🛠️ Backend
 
 Implementado con Django 5.2:
 
