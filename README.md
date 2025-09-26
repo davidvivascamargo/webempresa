@@ -59,29 +59,24 @@ cd webempresa
 Crear y activar un entorno virtual:
 
 bash
-Copiar código
 python -m venv env
 source env/bin/activate  # Linux/Mac
 env\Scripts\activate     # Windows
 Instalar dependencias:
 
 bash
-Copiar código
 pip install -r requirements.txt
 Aplicar migraciones:
 
 bash
-Copiar código
 python manage.py migrate
 Crear superusuario para acceder al admin:
 
 bash
-Copiar código
 python manage.py createsuperuser
 Ejecutar servidor local:
 
 bash
-Copiar código
 python manage.py runserver
 Accede a: http://127.0.0.1:8000/
 
