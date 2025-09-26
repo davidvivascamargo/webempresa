@@ -1,9 +1,9 @@
-Neko Cream - Proyecto de Pruebas en Django
+🐾 Neko Cream - Proyecto de Pruebas en Django
 
 Proyecto experimental desarrollado con Django 5, con fines educativos y de prueba. Permite explorar la creación de aplicaciones web completas con gestión de contenido, páginas dinámicas, formulario de contacto y un panel de administración personalizado.
 
 🌟 Características principales
-Panel de administración personalizado
+🛠️ Panel de administración personalizado
 
 Gestión de usuarios y grupos.
 
@@ -23,7 +23,7 @@ Campos de solo lectura (created, updated) y ordenamiento automático.
 
 Búsquedas y filtros mejorados en el admin.
 
-🌐 Frontend dinámico
+🎨 Frontend dinámico
 
 Contenido cargado directamente desde el admin de Django:
 
@@ -35,31 +35,31 @@ Formularios funcionales con validación, incluyendo el formulario de contacto.
 
 Contenido enriquecido con CKEditor en servicios y posts.
 
-🛠️ Backend
+⚙️ Backend
 
-Implementado con Django 5.2:
+Implementado con Django 5.2.
 
 Cada app (blog, services, pages, contact, social) tiene sus propias vistas (views.py) y rutas (urls.py).
 
-Modelos:
+Modelos principales:
 
-Posts y Categorys para el blog.
+Blog: Posts y Categorys.
 
-Services para productos y servicios.
+Services: Productos y servicios.
 
-Pages para páginas personalizadas.
+Pages: Páginas personalizadas.
 
-Social Links para enlaces de redes sociales.
+Social Links: Enlaces a redes sociales.
 
 Formulario de contacto usando forms.Form y EmailMessage.
 
 Archivos subidos (imágenes) en media/.
 
-Archivos CSS/JS en static/.
+Archivos CSS/JS y librerías externas en static/.
 
 Dependencias clave: django-ckeditor, pillow, psycopg2-binary, whitenoise.
 
-Experiencia de usuario
+👤 Experiencia de usuario
 
 Blog con posts, categorías e imágenes.
 
@@ -82,38 +82,26 @@ webempresa/
 ├─ manage.py
 └─ requirements.txt
 
-⚙️ Instalación rápida
-
-Clonar el repositorio:
-
+🚀 Instalación rápida
+💾 Clonar el repositorio
 git clone https://github.com/davidvivascamargo/webempresa.git
 cd webempresa
 
-
-Crear y activar un entorno virtual:
-
+🐍 Crear y activar entorno virtual
 python -m venv env
 source env/bin/activate  # Linux/Mac
 env\Scripts\activate     # Windows
 
-
-Instalar dependencias:
-
+📦 Instalar dependencias
 pip install -r requirements.txt
 
-
-Aplicar migraciones:
-
+🛠️ Aplicar migraciones
 python manage.py migrate
 
-
-Crear superusuario para acceder al admin:
-
+🔑 Crear superusuario
 python manage.py createsuperuser
 
-
-Ejecutar servidor local:
-
+🖥️ Ejecutar servidor local
 python manage.py runserver
 
 
@@ -148,5 +136,3 @@ SQLite (por defecto)
 Whitenoise
 
 Pillow, psycopg2-binary, dj-database-url, gunicorn
-
-© 2025 Proyecto experimental - Neko Cream
