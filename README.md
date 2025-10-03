@@ -175,38 +175,63 @@ Proyecto desarrollado con Django 5, JavaScript y Python. Incluye funcionalidades
 
 
 ---
-
 # Panel de Administración
 
 ## 👥 Usuarios
-![Usuarios](capturas/admin_usuarios.png)
+![Usuarios](capturas/admin_usuarios.png)  
+*Vista de gestión de usuarios en el panel de administración.*
 
 ## 🔗 Redes Sociales
-![Asignación de red social](capturas/admin_asignacion_red_social.png)
-![Links redes sociales](capturas/admin_links_redes_sociales.png)
+![Asignación de red social](capturas/admin_asignacion_red_social.png)  
+*Formulario para asignar redes sociales a la página.*
+
+![Links redes sociales](capturas/admin_links_redes_sociales.png)  
+*Listado y edición de links de redes sociales.*
 
 ## 👨‍👩‍👧‍👦 Grupos
-![Clasificación de grupos](capturas/admin_clasificacion_grupos.png)
-![Ejemplo creación grupo](capturas/admin_ejemplo_creacion_grupo.png)
-![Asignación grupo usuario](capturas/admin_asignacion_grupo_usuario.png)
+![Clasificación de grupos](capturas/admin_clasificacion_grupos.png)  
+*Vista de clasificación de grupos de usuarios.*
+
+![Ejemplo creación grupo](capturas/admin_ejemplo_creacion_grupo.png)  
+*Ejemplo práctico de creación de un grupo con privilegios.*
+
+![Asignación grupo usuario](capturas/admin_asignacion_grupo_usuario.png)  
+*Asignación de un grupo a un usuario específico.*
 
 ## 📝 Publicaciones
-![Creación post (Full)](capturas/admin_creacion_post_full.png)
-![Creación post (2)](capturas/admin_creacion_post_2.png)
+![Creación post (Full)](capturas/admin_creacion_post_full.png)  
+*Pantalla completa para crear una publicación.*
+
+![Creación post (2)](capturas/admin_creacion_post_2.png)  
+*Segunda vista de la creación de publicaciones.*
 
 ## 🗂️ Categorías
-![Crear categoría blog](capturas/admin_crear_categoria_blog.png)
-![Creación categoría](capturas/admin_creacion_categoria.png)
+![Crear categoría blog](capturas/admin_crear_categoria_blog.png)  
+*Formulario para crear categorías en el blog.*
+
+![Creación categoría](capturas/admin_creacion_categoria.png)  
+*Ejemplo de creación de una categoría.*
 
 ## 🛠️ Servicios
-![Servicios](capturas/admin_servicios.png)
-![Creación servicio](capturas/admin_creacion_servicio.png)
+![Servicios](capturas/admin_servicios.png)  
+*Listado de servicios disponibles.*
+
+![Creación servicio](capturas/admin_creacion_servicio.png)  
+*Formulario para la creación de un servicio.*
 
 ## ⚖️ Páginas Legales
-![Aviso Legal](capturas/admin_aviso_legal.png)
-![Editar aviso legal](capturas/admin_editar_aviso_legal.png)
-![Editar cookies](capturas/admin_editar_cookies.png)
-![Editar política de privacidad](capturas/admin_editar_politica_privacidad.png)
+![Aviso Legal](capturas/admin_aviso_legal.png)  
+*Vista del aviso legal en el panel.*
+
+![Editar aviso legal](capturas/admin_editar_aviso_legal.png)  
+*Edición del aviso legal.*
+
+![Editar cookies](capturas/admin_editar_cookies.png)  
+*Pantalla de edición de cookies.*
+
+![Editar política de privacidad](capturas/admin_editar_politica_privacidad.png)  
+*Pantalla de edición de política de privacidad.*
 
 ## 📄 Gestor de Páginas
-![Page Manager](capturas/admin_page_manager.png)
+![Page Manager](capturas/admin_page_manager.png)  
+*Gestor de páginas del panel de administración.*
