@@ -136,3 +136,38 @@ SQLite (por defecto)
 Whitenoise
 
 Pillow, psycopg2-binary, dj-database-url, gunicorn
+
+
+# WebEmpresa - Proyecto Django
+
+Proyecto desarrollado con Django 5, JavaScript y Python. Incluye funcionalidades de registro, login, gestión de noticias, películas y reseñas, así como un panel de administración.
+
+---
+
+## Capturas del proyecto
+
+### 1️⃣ Login y Registro
+
+![Login](capturas/login.png)  
+![Registro](capturas/registro.png)
+
+### 2️⃣ Panel de administración
+
+![Panel](capturas/panel.png)  
+![Home](capturas/home.png)
+
+### 3️⃣ Secciones y gestión de contenido
+
+![Creación de Noticias](capturas/creacion_news.png)  
+![Creación de Películas](capturas/creacion_pelicula.png)  
+![Creación de Reseñas](capturas/creacion_resena.png)  
+![Gestión de Noticias](capturas/gestion_news.png)  
+![Gestión de Películas](capturas/gestion_peliculas.png)  
+![Gestión de Reseñas](capturas/gestion_resenas.png)  
+
+### 4️⃣ Secciones específicas del usuario y admin
+
+![Sección Add Reseñas](capturas/seccion_add_resenas.png)  
+![Sección Noticias](capturas/seccion_news.png)  
+![Sección Reseñas Admin](capturas/seccion_resenas_admin.png)  
+![Sección Reseñas Usuario](capturas/seccion_resenas_user.png)
