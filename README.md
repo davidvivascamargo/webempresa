@@ -144,30 +144,34 @@ Proyecto desarrollado con Django 5, JavaScript y Python. Incluye funcionalidades
 
 ---
 
-## Capturas del proyecto
+## Capturas del Proyecto
 
-### 1️⃣ Login y Registro
+### Panel de administración
+![Asignación de grupo a usuario](capturas/admin_asignacion_grupo_usuario.png)
+![Asignación de red social](capturas/admin_asignacion_red_social.png)
+![Clasificación de grupos de usuario](capturas/admin_clasificacion_grupos.png)
+![Ejemplo creación de grupo](capturas/admin_ejemplo_creacion_grupo.png)
+![Links de redes sociales](capturas/admin_links_redes_sociales.png)
+![Aviso legal](capturas/admin_aviso_legal.png)
+![Creación de post](capturas/admin_creacion_post_full.png)
+![Creación de servicio](capturas/admin_creacion_servicio.png)
+![Creación de post 2](capturas/admin_creacion_post_2.png)
+![Creación de categoría](capturas/admin_creacion_categoria.png)
+![Page manager](capturas/admin_page_manager.png)
+![Crear categoría blog](capturas/admin_crear_categoria_blog.png)
+![Editar política de privacidad](capturas/admin_editar_politica_privacidad.png)
+![Editar aviso legal](capturas/admin_editar_aviso_legal.png)
+![Servicios](capturas/admin_servicios.png)
+![Editar cookies](capturas/admin_editar_cookies.png)
+![Usuarios](capturas/admin_usuarios.png)
 
-![Login](capturas/login.png)  
-![Registro](capturas/registro.png)
-
-### 2️⃣ Panel de administración
-
-![Panel](capturas/panel.png)  
-![Home](capturas/home.png)
-
-### 3️⃣ Secciones y gestión de contenido
-
-![Creación de Noticias](capturas/creacion_news.png)  
-![Creación de Películas](capturas/creacion_pelicula.png)  
-![Creación de Reseñas](capturas/creacion_resena.png)  
-![Gestión de Noticias](capturas/gestion_news.png)  
-![Gestión de Películas](capturas/gestion_peliculas.png)  
-![Gestión de Reseñas](capturas/gestion_resenas.png)  
-
-### 4️⃣ Secciones específicas del usuario y admin
-
-![Sección Add Reseñas](capturas/seccion_add_resenas.png)  
-![Sección Noticias](capturas/seccion_news.png)  
-![Sección Reseñas Admin](capturas/seccion_resenas_admin.png)  
-![Sección Reseñas Usuario](capturas/seccion_resenas_user.png)
+### Vistas del sitio
+![Aviso legal](capturas/view_aviso_legal.png)
+![Blog](capturas/view_blog.png)
+![Contacto](capturas/view_contacto.png)
+![Cookies](capturas/view_cookies.png)
+![Historia de la empresa](capturas/view_historia_empresa.png)
+![Inicio](capturas/view_home.png)
+![Visítanos con mapa](capturas/view_visitarnos_mapa.png)
+![Política de privacidad](capturas/view_politica_privacidad.png)
+![Servicios](capturas/view_servicios.png)
