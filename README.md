@@ -143,35 +143,87 @@ Pillow, psycopg2-binary, dj-database-url, gunicorn
 Proyecto desarrollado con Django 5, JavaScript y Python. Incluye funcionalidades de registro, login, gestión de noticias, películas y reseñas, así como un panel de administración.
 
 ---
-
 ## Capturas del Proyecto
 
 ### Panel de administración
+
+**Asignación de grupo a usuario**  
 ![Asignación de grupo a usuario](capturas/admin_asignacion_grupo_usuario.png)
+
+**Asignación de red social**  
 ![Asignación de red social](capturas/admin_asignacion_red_social.png)
+
+**Clasificación de grupos de usuario**  
 ![Clasificación de grupos de usuario](capturas/admin_clasificacion_grupos.png)
+
+**Ejemplo creación de grupo**  
 ![Ejemplo creación de grupo](capturas/admin_ejemplo_creacion_grupo.png)
-![Links de redes sociales](capturas/admin_links_redes_sociales.png)
+
+**Links de redes sociales**  
+![Links de redes sociales](capturas/admin_links_red_social.png)
+
+**Aviso legal**  
 ![Aviso legal](capturas/admin_aviso_legal.png)
+
+**Creación de post**  
 ![Creación de post](capturas/admin_creacion_post_full.png)
+
+**Creación de servicio**  
 ![Creación de servicio](capturas/admin_creacion_servicio.png)
+
+**Creación de post 2**  
 ![Creación de post 2](capturas/admin_creacion_post_2.png)
+
+**Creación de categoría**  
 ![Creación de categoría](capturas/admin_creacion_categoria.png)
+
+**Page manager**  
 ![Page manager](capturas/admin_page_manager.png)
+
+**Crear categoría blog**  
 ![Crear categoría blog](capturas/admin_crear_categoria_blog.png)
+
+**Editar política de privacidad**  
 ![Editar política de privacidad](capturas/admin_editar_politica_privacidad.png)
+
+**Editar aviso legal**  
 ![Editar aviso legal](capturas/admin_editar_aviso_legal.png)
+
+**Servicios**  
 ![Servicios](capturas/admin_servicios.png)
+
+**Editar cookies**  
 ![Editar cookies](capturas/admin_editar_cookies.png)
+
+**Usuarios**  
 ![Usuarios](capturas/admin_usuarios.png)
 
+
 ### Vistas del sitio
+
+**Aviso legal**  
 ![Aviso legal](capturas/view_aviso_legal.png)
+
+**Blog**  
 ![Blog](capturas/view_blog.png)
+
+**Contacto**  
 ![Contacto](capturas/view_contacto.png)
+
+**Cookies**  
 ![Cookies](capturas/view_cookies.png)
+
+**Historia de la empresa**  
 ![Historia de la empresa](capturas/view_historia_empresa.png)
+
+**Inicio**  
 ![Inicio](capturas/view_home.png)
+
+**Visítanos con mapa**  
 ![Visítanos con mapa](capturas/view_visitarnos_mapa.png)
+
+**Política de privacidad**  
 ![Política de privacidad](capturas/view_politica_privacidad.png)
+
+**Servicios**  
 ![Servicios](capturas/view_servicios.png)
