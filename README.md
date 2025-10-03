@@ -109,6 +109,38 @@ Accede a la web: http://127.0.0.1:8000/
 
 Admin: http://127.0.0.1:8000/admin/
 
+---
+
+IMPORTANTE!:
+
+✉️ Formulario de Contacto
+
+La sección de Contacto permite que los usuarios envíen mensajes directamente desde la página web.
+
+Configuración de correo en Django:
+
+# Email config
+EMAIL_HOST = 'sandbox.smtp.mailtrap.io'
+EMAIL_HOST_USER = '0123a6c92e0bb7'
+EMAIL_HOST_PASSWORD = '78bde6eca44b3a'
+EMAIL_PORT = '2525'
+
+
+Flujo de envío:
+
+El usuario completa el formulario de contacto en la web.
+
+Django envía el correo usando la configuración de Mailtrap.
+
+Todos los mensajes quedan capturados en Mailtrap para pruebas y revisión.
+
+Visualización de los mensajes:
+
+Los mensajes enviados pueden revisarse en el inbox de Mailtrap:
+https://mailtrap.io/inboxes/4039666/messages
+
+---
+ 
 📝 Notas importantes
 
 Proyecto experimental; no optimizado para producción.
