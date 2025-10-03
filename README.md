@@ -120,9 +120,13 @@ La sección de Contacto permite que los usuarios envíen mensajes directamente d
 Configuración de correo en Django:
 
 # Email config
+
 EMAIL_HOST = 'sandbox.smtp.mailtrap.io'
+
 EMAIL_HOST_USER = '0123a6c92e0bb7'
+
 EMAIL_HOST_PASSWORD = '78bde6eca44b3a'
+
 EMAIL_PORT = '2525'
 
 
